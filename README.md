@@ -1,2 +1,1 @@
-# AudiSalesAnalysis
-Audi markasına ait otomobil satış verilerini SQL Server üzerinde analiz etmek ve farklı raporlar oluşturmak.
+                                                          SQL VE POWER BI İLE AUDİ SATIŞ VE ANALİZ PROJESİ
