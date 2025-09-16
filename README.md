@@ -7,11 +7,17 @@ Amaç; satış, mağaza, personel ve müşteri bazlı analizler yaparak iş zek�
 Dosya İçeriği
 Dosya Adı	Açıklama
 AUDİPROCEDURE.sql	SQL Server için oluşturulan saklı prosedürler (satış, ciro, mağaza bazlı analizler vb.).
+
 AUDİSORGULARİ.sql	Veri analizi için kullanılan SELECT sorguları.
+
 audi insert devamı.sql	Test verilerinin devamı (INSERT komutları).
+
 audı veri tabanı.sql	Audi veri tabanı şema ve tablo yapısı.
+
 POWER BI AUDİ GÖRSEL SUNUMU.png	Power BI’da oluşturulan raporun ekran görüntüsü.
+
 README.md	Bu proje hakkında açıklama dosyası.
+
 Kurulum ve Kullanım
 
 1️⃣ SQL Server’da audı veri tabanı.sql dosyasını çalıştırarak veritabanını oluşturun.
