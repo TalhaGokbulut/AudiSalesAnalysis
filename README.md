@@ -21,9 +21,13 @@ README.md	Bu proje hakkında açıklama dosyası.
 Kurulum ve Kullanım
 
 1️⃣ SQL Server’da audı veri tabanı.sql dosyasını çalıştırarak veritabanını oluşturun.
+
 2️⃣ audi insert devamı.sql dosyasını çalıştırarak örnek verileri ekleyin.
+
 3️⃣ AUDİPROCEDURE.sql ve AUDİSORGULARİ.sql dosyalarındaki sorguları/procedürleri çalıştırın.
+
 4️⃣ Power BI Desktop ile veritabanına bağlanarak rapor dosyalarını inceleyin.
+
 
 💡 Öne Çıkan Analizler
 
