@@ -39,6 +39,19 @@ Kurulum ve Kullanım
 
 📈 Trend İncelemesi: Aylık satış değişimleri
 
+Verilerimi SQL ile düzenleyip sorgularımı oluşturduktan sonra POWER BI ile sunum işlemimi gerçekleştirdim.
+
+Aşağıda görselleri mevcuttur:
+
+
+
+<img width="1313" height="807" alt="POWER BI AUDİ SUNUMU" src="https://github.com/user-attachments/assets/a63b4038-7ed6-4c07-ad85-1263efc15783" />
+
+<img width="1315" height="809" alt="POWER BI AUDİ SUNUMU-2" src="https://github.com/user-attachments/assets/d027dec8-11c2-4bbd-bd88-aa9b583409b7" />
+
+<img width="1313" height="808" alt="POWER BI AUDİ SUNUMU-3" src="https://github.com/user-attachments/assets/99371af4-8675-4df2-abae-a4610cb4a5ff" />
+
+
 📬 İletişim
 
 Bu proje hakkında sorularınız için:
